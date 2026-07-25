@@ -44,3 +44,10 @@ Timeline, week by week, what are you delivering.
 Assumptions and risks, what are you assuming to be true, and what could go wrong.
 
 
+
+
+after creating a scope of work document also create me a best technical solution flow documnets , the steps , services all
+
+Alishba Work:
+we will make this on aws as well.
+
